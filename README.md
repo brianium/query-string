@@ -1,5 +1,7 @@
 # query-string
 
+[![Clojars Project](https://img.shields.io/clojars/v/query-string.svg)](https://clojars.org/query-string)
+
 Functions for working with query-strings in Clojure
 
 ## Installation
