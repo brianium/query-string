@@ -7,7 +7,7 @@ Functions for working with query-strings in Clojure
 Add the following dependency to your `project.clj` file:
 
 ```
-[pradpi "0.1.0"]
+[query-string "0.1.0"]
 ```
 
 ## Usage
